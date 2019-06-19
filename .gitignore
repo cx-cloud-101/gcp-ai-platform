@@ -1,0 +1,4 @@
+data/
+*output*/
+prediction_input.json
+*.pyc
